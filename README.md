@@ -1,3 +1,3 @@
 #  Ai Art generator
-Information website
+Information website:
 https://opendream.ai/
